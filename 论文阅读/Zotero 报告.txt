@@ -1,0 +1,638 @@
+  *
+
+
+        海底甲烷冷泉特征与冷泉生态系统的群落结构
+
+    条目类型 	期刊文章
+    作者 	陈忠
+    作者 	杨华平
+    作者 	黄奇瑜
+    作者 	陆钧
+    作者 	颜文
+    摘要 	海底冷泉及冷泉生态系统是现代海洋地质学和生物学研究的前沿领域,
+    它提升了人类对深海资源的认识和利用,拓展了深海极端环境下生命的潜在界
+    线。综述了海底甲烷冷泉的成因、冷泉喷发的类型及其特征,海底冷泉分布、
+    形成的主要阶段(150—100Ma BP,42—28Ma BP和12Ma BP以来)以及指示海底冷泉
+    系统的简要特征;综述了冷泉化能自养生态系统及其食物链构成和特征,专性
+    种、潜在专性种和非专性种的生物组成及其特征,冷泉环境中有孔虫和轻小型
+    底栖动物的主要变化;最后划分了我国近海的冷泉区(点)并简要介绍它们的分
+    布和特征,为开展我国近海冷泉及其冷泉生物群落的调查和研究提供了基础资料。
+    日期 	2007
+    语言 	zh-CN
+    文库编目 	CNKI
+    网址
+    https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=RDHY200706012
+
+    访问时间 	2024/10/8 下午12:23:03
+    其他 	original-container-title: Journal of Tropical Oceanography
+    foundation: 国家自然科学基金项目(40676038)； 中国科学院知识创新工程
+    项目(KZCX2-YW-211)； 广东省自然科学基金项目(07004204)； download:
+    2086 album: 基础科学 CLC: P736;P735 dbcode: CJFQ dbname: CJFDTEMP
+    filename: RDHY200706012 publicationTag: 北大核心, CA, JST, Pж(AJ),
+    CSCD, WJCI CIF: 1.386 AIF: 1.07
+    页码 	73-82
+    期刊 	热带海洋学报
+    期号 	6
+    ISSN 	1009-5470
+    添加日期 	2024/10/8 下午12:23:04
+    修改日期 	2024/10/8 下午12:23:04
+
+
+          标签：
+
+      o 甲烷冷泉
+      o 冷泉生态系统
+      o 冷泉生物
+      o 群落结构
+      o 天然气水合物
+
+
+          附件
+
+      o 2007_陈忠 et al_海底甲烷冷泉特征与冷泉生态系统的群落结构_.pdf
+  *
+
+
+        海底甲烷泄漏对海洋生态环境质量影响的评估方法_冯景春.caj
+
+    条目类型 	附件
+    添加日期 	2024/10/9 上午9:06:45
+    修改日期 	2024/10/9 上午9:06:45
+
+  *
+
+
+        海底泥火山的甲烷迁移与转化及其对海洋碳输入的影响
+
+    条目类型 	期刊文章
+    作者 	徐翠玲
+    作者 	孙治雷
+    作者 	吴能友
+    作者 	赵广涛
+    作者 	耿威
+    作者 	曹红
+    作者 	张现荣
+    作者 	张喜林
+    作者 	翟滨
+    作者 	李鑫
+    摘要 	海底通过泥火山释放的富甲烷流体是海洋甚至大气重要的碳源之一,对
+    该系统内甲烷迁移与转化过程开展研究,有助于精确估算其碳排放总量。系统
+    调研了国内外文献,认识到泥火山的碳排放具有强烈的时、空变化特征。在时
+    间上,甲烷的排放主要发生在泥火山的喷发期和平静期,而在其消亡之后只出现
+    微量的渗漏;在空间上,一个单独的泥火山中心、翼部和外缘分别发育强甲烷气
+    泡泄漏、中等强度富甲烷和溶解无机碳(DIC)的流体泄漏以及大面积的DIC微渗
+    漏;甲烷厌氧氧化和碳酸盐岩沉淀作用在翼部最强,对碳排放的拦截最有效,而
+    在中心和外缘均较慢。全球陆坡和深水盆地沉积物通过泥火山向上释放的深部
+    来源的甲烷通量为0.02 Pg C·a-1,这些碳可能引发海水缺氧、酸化和影响海-
+    气交换通量,从而在千年尺度甚至更短时间内影响海洋吸收大气二氧化碳的能
+    力。将来需要进一步对海底泥火山的发育数目和喷发周期进行统计,对不同类
+    型的泥火山开展精细调查,以准确评估沉积物中自下而上的碳排放对海洋碳循
+    环的影响,完善全球碳循环模式。
+    日期 	2020
+    语言 	zh-CN
+    文库编目 	CNKI
+    网址
+    https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2021&filename=HYDZ202006001
+
+    访问时间 	2024/10/8 下午12:14:10
+    其他 	original-container-title: Marine Geology & Quaternary Geology
+    foundation: 国家自然科学基金“冲绳海槽泥火山甲烷迁移与转化的空间分布
+    规律及其对海水碳输入的影响”（41906068），“冲绳海槽海底冷泉-热液系统
+    相互作用及资源效应”（91858208）； 山东省泰山学者特聘专家计划
+    （ts201712079）； 中国地质调查局海洋地质调查专项项目（DD20190819）；
+    download: 393 album: 基础科学 CLC: P734 dbcode: CJFQ dbname:
+    CJFDLAST2021 filename: HYDZ202006001 publicationTag: 北大核心, CA,
+    JST, CSCD, WJCI CIF: 1.218 AIF: 0.996
+    卷次 	40
+    页码 	1-13
+    期刊 	海洋地质与第四纪地质
+    DOI 	10.16562/j.cnki.0256-1492.2020050801
+    <http://doi.org/10.16562/j.cnki.0256-1492.2020050801>
+    期号 	6
+    ISSN 	0256-1492
+    添加日期 	2024/10/8 下午12:14:10
+    修改日期 	2024/10/8 下午12:14:10
+
+
+          标签：
+
+      o 海底甲烷泄漏
+      o 海底泥火山
+      o 海洋碳循环
+      o 甲烷厌氧氧化
+      o 冷泉碳酸盐岩
+
+
+          附件
+
+      o 2020_徐翠玲 et al_海底泥火山的甲烷迁移与转化及其对海洋碳输入的影
+        响_.pdf
+  *
+
+
+        海洋采油平台天然气泄漏扩散实验与数值模拟分析
+
+    条目类型 	期刊文章
+    作者 	郭敏
+    作者 	杨冬平
+    作者 	齐光峰
+    作者 	李皓玥
+    作者 	李亚宁
+    作者 	朱渊
+    摘要 	基于中国石化胜利油田典型海洋平台，搭建缩比为1∶22的实验平台，选
+    取储罐、天然气处理系统及三相分离器等设备作为气体泄漏源，开展基于
+    Froude数相似理论的甲烷泄漏扩散规律测试实验，同时，采用泄漏及爆炸分析
+    软件FLACS建模，进行典型泄漏工况的数值模拟。通过气体泄漏实验和数值模
+    拟结果对比，两组数据的总平均误差为8.70%,验证数值模型具有较好的预测精
+    度；结合数值模型和实验数据，进一步分析了海洋平台甲烷泄漏的扩散规律，
+    为海洋平台油气泄漏安全风险防控提供了理论和数据支撑。
+    日期 	2024
+    语言 	zh-CN
+    文库编目 	CNKI
+    网址
+    https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=SAFE202402007
+
+    访问时间 	2024/10/8 下午12:18:56
+    其他 	original-container-title: Safety Health & Environment
+    download: 162 album: 工程科技Ⅰ辑 CLC: TE58 dbcode: CJFQ dbname:
+    CJFDTEMP filename: SAFE202402007 CIF: 0.569 AIF: 0.462
+    卷次 	24
+    页码 	36-41
+    期刊 	安全、健康和环境
+    期号 	2
+    ISSN 	1672-7932
+    添加日期 	2024/10/8 下午12:18:56
+    修改日期 	2024/10/8 下午12:18:56
+
+
+          标签：
+
+      o 海洋平台
+      o 甲烷泄漏实验
+      o 数值模拟
+      o 天然气
+      o 泄漏扩散
+      o FLACS建模
+
+
+          附件
+
+      o 2024_郭敏 et al_海洋采油平台天然气泄漏扩散实验与数值模拟分析_.pdf
+  *
+
+
+        杭州湾柱状沉积物中甲烷的分布与厌氧氧化
+
+    条目类型 	学位论文
+    作者 	贺行良
+    贡献者 	王江涛
+    摘要 	甲烷（CH4）是一种重要的温室气体，温室效应比同等重量CO2大20倍之
+    多。边缘海沉积物中蕴藏着大量的甲烷，但甲烷在海底释放、迁移与扩散过程
+    中可发生强烈的厌氧氧化作用，削弱了向上继续运移进入海水和大气中的通
+    量。因此，研究海洋沉积物中甲烷厌氧氧化过程
+    （Anaerobicoxidationofmethane，AOM），对准确评估其生态环境效应具有重
+    要的科学意义。杭州湾舟山群岛近岸海域位于陆海交汇处，是长江、钱塘江等
+    河流携带陆源有机物质入海的主要沉积场所，在第四纪的几次海侵、海退旋回
+    过程中，垂直交替埋藏了多层分布的浅层生物气（主要成分为CH4）。目前，
+    我们对杭州湾柱状沉积物中甲烷的分布特征与厌氧氧化模式尚缺乏详细了解，
+    难以对其释放、迁移与转化规律获得深刻认识。 本论文以杭州湾舟山群岛近
+    岸海底浅层生物气赋存区作为研究区域，通...
+    日期 	2019
+    文库编目 	Wanfang Data
+    网址 	https://d.wanfangdata.com.cn/thesis/D02570085
+    访问时间 	2024/10/8 下午12:17:31
+    其他 	major: 海洋化学 CLC: P734.43(海洋基础科学)
+    论文类型 	博士学位论文
+    大学 	中国海洋大学
+    添加日期 	2024/10/8 下午12:17:31
+    修改日期 	2024/10/8 下午12:17:31
+
+
+          标签：
+
+      o 边缘海
+      o 分布特征
+      o 甲烷分布
+      o 厌氧氧化
+      o 柱状沉积物
+  *
+
+
+        南海北部甲烷水合物潜在区沉积物碳硫作用特征及对甲烷渗漏的指示
+
+    条目类型 	学位论文
+    作者 	王斌
+    贡献者 	雷怀彦
+    摘要 	天然气水合物是在低温高压条件下由水分子和甲烷等气体分子构成的笼
+    形似冰状固态化合物,在海底蕴藏量十分巨大,是21世纪各国政府和科学界高度
+    关注的洁净能源。漫长地质过程中构造变动、海平面变化等因素的影响可能导
+    致水合物储层失稳分解并释放大量甲烷流体向上逸散。甲烷流体向上扩散过程
+    中,与孔隙水中硫酸盐发生的甲烷厌氧氧化作用(SD-AOM)对减缓甲烷气体温室
+    效应有一定作用。SD-AOM过程改变局部孔隙水的地球化学特征,造成自生矿物
+    (碳酸盐和黄铁矿)在海洋沉积物中发生沉淀。因此,研究甲烷渗漏过程中碳硫
+    相互作用对查明天然气水合物藏分布和探究甲烷释放对环境变化等方面具有重
+    要的现实和理论意义。本论文选择我国南海北部天然气水合物资源潜力巨大的
+    神狐海域进行沉积物中碳硫作用特征研究,论文主要依托国家自然科学基金项
+    目(编号:41773078和41276046),搭载2018年基金委KK1804航次对神狐海域进行
+    了实地考察和采集多个沉积物柱状样品。论文重点选取A27和SH1站位为研究对
+    象,首先利用沉积物元素、粒度、浮游有孔虫AMS 14C测年及其δ18O测试开展沉
+    积环境演化研究;其次,基于顶空气和孔隙水地球化学特征划分早期成岩作用
+    带,查明当前正在发生的主要流体过程;接着,通过沉积物碳酸盐和有孔虫生物
+    壳体碳氧同位素测试,结合同位素物质平衡模型的构建,分析甲烷渗漏活动对沉
+    积物无机碳和有机碳的改造作用;然后,对沉积物手工挑选的黄铁矿进行镜下形
+    貌观察、硫同位素测试、莓球粒径统计,并利用化学分析手段测试黄铁矿微量
+    元素含量,探讨矿物成因机制及其关联的微量元素循环过程。综合研究区地质
+    背景和地球化学多参数,表征沉积物中的碳硫作用特征,并对甲烷异常渗漏活动
+    提供指示。主要获得以下结果和结论:1、A27和SH1岩心岩性相对均一,主要由
+    灰黑色粉砂组成,沉积序列连续且无明显的沉积间断或浊流层,反映出研究区在
+    正常海洋环境下稳定沉积。基于浮游有孔虫AMS 14C测年建立研究站位年代地
+    层框架,发现A27底部沉积层距今约17.2kyr,而SH1则具有更长的沉积埋藏历史,
+    据推测该站位底部沉积层年龄超过了 60kyr。通过对沉积物粒度和元素地球化
+    学特征的分析,结合年代地层框架和浮游有孔虫δ18O值,结果显示,自埋藏以来
+    研究站位沉积记录的物质输入、有机质含量、沉积速率、钙质生物生产力等古
+    环境和古气候特征主要受控于海平面升降变化。具体表现为:低海平面海退时
+    期,较强的水动力条件带来了丰富...
+    日期 	2022
+    语言 	zh-CN
+    文库编目 	CNKI
+    网址
+    https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDTEMP&filename=1022102450.nh
+
+    访问时间 	2024/10/8 下午12:16:21
+    其他 	DOI: 10.27424/d.cnki.gxmdu.2022.000291 major: 海洋地质
+    download: 31 album: 基础科学;工程科技Ⅰ辑;工程科技Ⅱ辑 CLC:
+    P618.13;P744.4 dbcode: CDFD dbname: CDFDTEMP filename: 1022102450.nh
+    总页数 	142
+    论文类型 	博士学位论文
+    大学 	厦门大学
+    添加日期 	2024/10/8 下午12:16:21
+    修改日期 	2024/10/8 下午12:16:21
+
+
+          标签：
+
+      o 甲烷渗漏
+      o 神狐海域
+      o 碳硫同位素
+      o 元素循环
+      o 自生矿物
+
+
+          附件
+
+      o 2022_王斌_南海北部甲烷水合物潜在区沉积物碳硫作用特征及对甲烷渗漏
+        的指示_.pdf
+  *
+
+
+        南海北部甲烷水合物潜在区沉积物碳硫作用特征及对甲烷渗漏的指示
+
+    条目类型 	学位论文
+    作者 	王斌
+    贡献者 	雷怀彦
+    摘要 	天然气水合物是在低温高压条件下由水分子和甲烷等气体分子构成的笼
+    形似冰状固态化合物,在海底蕴藏量十分巨大,是21世纪各国政府和科学界高度
+    关注的洁净能源。漫长地质过程中构造变动、海平面变化等因素的影响可能导
+    致水合物储层失稳分解并释放大量甲烷流体向上逸散。甲烷流体向上扩散过程
+    中,与孔隙水中硫酸盐发生的甲烷厌氧氧化作用(SD-AOM)对减缓甲烷气体温室
+    效应有一定作用。SD-AOM过程改变局部孔隙水的地球化学特征,造成自生矿物
+    (碳酸盐和黄铁矿)在海洋沉积物中发生沉淀。因此,研究甲烷渗漏过程中碳硫
+    相互作用对查明天然气水合物藏分布和探究甲烷释放对环境变化等方面具有重
+    要的现实和理论意义。本论文选择我国南海北部天然气水合物资源潜力巨大的
+    神狐海域进行沉积物中碳硫作用特征研究,论文主要依托国家自然科学基金项
+    目(编号:41773078和41276046),搭载2018年基金委KK1804航次对神狐海域进行
+    了实地考察和采集多个沉积物柱状样品。论文重点选取A27和SH1站位为研究对
+    象,首先利用沉积物元素、粒度、浮游有孔虫AMS 14C测年及其δ18O测试开展沉
+    积环境演化研究;其次,基于顶空气和孔隙水地球化学特征划分早期成岩作用
+    带,查明当前正在发生的主要流体过程;接着,通过沉积物碳酸盐和有孔虫生物
+    壳体碳氧同位素测试,结合同位素物质平衡模型的构建,分析甲烷渗漏活动对沉
+    积物无机碳和有机碳的改造作用;然后,对沉积物手工挑选的黄铁矿进行镜下形
+    貌观察、硫同位素测试、莓球粒径统计,并利用化学分析手段测试黄铁矿微量
+    元素含量,探讨矿物成因机制及其关联的微量元素循环过程。综合研究区地质
+    背景和地球化学多参数,表征沉积物中的碳硫作用特征,并对甲烷异常渗漏活动
+    提供指示。主要获得以下结果和结论:1、A27和SH1岩心岩性相对均一,主要由
+    灰黑色粉砂组成,沉积序列连续且无明显的沉积间断或浊流层,反映出研究区在
+    正常海洋环境下稳定沉积。基于浮游有孔虫AMS 14C测年建立研究站位年代地
+    层框架,发现A27底部沉积层距今约17.2kyr,而SH1则具有更长的沉积埋藏历史,
+    据推测该站位底部沉积层年龄超过了 60kyr。通过对沉积物粒度和元素地球化
+    学特征的分析,结合年代地层框架和浮游有孔虫δ18O值,结果显示,自埋藏以来
+    研究站位沉积记录的物质输入、有机质含量、沉积速率、钙质生物生产力等古
+    环境和古气候特征主要受控于海平面升降变化。具体表现为:低海平面海退时
+    期,较强的水动力条件带来了丰富...
+    日期 	2022
+    语言 	zh-CN
+    文库编目 	CNKI
+    网址
+    https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDTEMP&filename=1022102450.nh
+
+    访问时间 	2024/10/15 下午11:41:43
+    其他 	DOI: 10.27424/d.cnki.gxmdu.2022.000291 major: 海洋地质
+    download: 36 album: 基础科学;工程科技Ⅰ辑;工程科技Ⅱ辑 CLC:
+    P618.13;P744.4 dbcode: CDFD dbname: CDFDTEMP filename: 1022102450.nh
+    总页数 	142
+    论文类型 	博士学位论文
+    大学 	厦门大学
+    添加日期 	2024/10/15 下午11:41:43
+    修改日期 	2024/10/15 下午11:41:43
+
+
+          标签：
+
+      o 甲烷渗漏
+      o 神狐海域
+      o 碳硫同位素
+      o 元素循环
+      o 自生矿物
+
+
+          附件
+
+      o 2022_王斌_南海北部甲烷水合物潜在区沉积物碳硫作用特征及对甲烷渗漏
+        的指示_.pdf
+
+        *Contents*
+
+          + 摘要 <zotero://open-pdf/0_6GJLC7S9/2>
+          + Abstract <zotero://open-pdf/0_6GJLC7S9/5>
+          + 第一章 绪论 <zotero://open-pdf/0_6GJLC7S9/13>
+              # 1.1 研究意义 <zotero://open-pdf/0_6GJLC7S9/13>
+              # 1.2 研究现状 <zotero://open-pdf/0_6GJLC7S9/15>
+                  * 1.2.1 海洋沉积物早期成岩过程及碳硫作用
+                    <zotero://open-pdf/0_6GJLC7S9/15>
+                  * 1.2.2 含碳硫自生矿物特征
+                    <zotero://open-pdf/0_6GJLC7S9/18>
+                  * 1.2.3 南海天然气水合物赋存特征
+                    <zotero://open-pdf/0_6GJLC7S9/25>
+              # 1.3 存在问题 <zotero://open-pdf/0_6GJLC7S9/27>
+              # 1.4 研究目标及内容 <zotero://open-pdf/0_6GJLC7S9/28>
+              # 1.5 技术路线 <zotero://open-pdf/0_6GJLC7S9/29>
+          + 第二章 样品来源与研究方法 <zotero://open-pdf/0_6GJLC7S9/31>
+              # 2.1 样品来源 <zotero://open-pdf/0_6GJLC7S9/31>
+                  * 2.1.1 项目依托 <zotero://open-pdf/0_6GJLC7S9/31>
+                  * 2.1.2 样品信息 <zotero://open-pdf/0_6GJLC7S9/31>
+                  * 2.1.3 实验手段 <zotero://open-pdf/0_6GJLC7S9/32>
+              # 2.2 研究方法 <zotero://open-pdf/0_6GJLC7S9/34>
+                  * 2.2.1 孔隙水离子浓度测定
+                    <zotero://open-pdf/0_6GJLC7S9/34>
+                  * 2.2.2 顶空气甲烷浓度及同位素测定
+                    <zotero://open-pdf/0_6GJLC7S9/34>
+                  * 2.2.3 沉积物碳酸盐含量及δ~(13)C和δ~(18)O测定
+                    <zotero://open-pdf/0_6GJLC7S9/35>
+                  * 2.2.4 沉积物生物碳酸钙含量测定
+                    <zotero://open-pdf/0_6GJLC7S9/35>
+                  * 2.2.5 沉积物总有机碳(TOC)及其碳同位素(δ~(13)C_(TOC))
+                    <zotero://open-pdf/0_6GJLC7S9/35>
+                  * 2.2.6 全岩主微量及稀土元素分析
+                    <zotero://open-pdf/0_6GJLC7S9/35>
+                  * 2.2.7 沉积物活性铁及微量元素组分分析
+                    <zotero://open-pdf/0_6GJLC7S9/36>
+                  * 2.2.8 有孔虫AMS ~(14)C放射性测年
+                    <zotero://open-pdf/0_6GJLC7S9/37>
+                  * 2.2.9 有孔虫δ~(13)C和δ~(18)O同位素测试
+                    <zotero://open-pdf/0_6GJLC7S9/38>
+                  * 2.2.10 黄铁矿镜下挑选 <zotero://open-pdf/0_6GJLC7S9/38>
+                  * 2.2.11 黄铁矿硫同位素(δ~(34)S-pyrite)测定
+                    <zotero://open-pdf/0_6GJLC7S9/38>
+                  * 2.2.12 扫描电镜及能谱 <zotero://open-pdf/0_6GJLC7S9/39>
+          + 第三章 研究区沉积物埋藏和演化史
+            <zotero://open-pdf/0_6GJLC7S9/40>
+              # 3.1 研究区地质背景 <zotero://open-pdf/0_6GJLC7S9/40>
+              # 3.2 研究区沉积演化史 <zotero://open-pdf/0_6GJLC7S9/42>
+                  * 3.2.1 研究站位年代地层框架
+                    <zotero://open-pdf/0_6GJLC7S9/42>
+                  * 3.2.2 研究区物源输入 <zotero://open-pdf/0_6GJLC7S9/43>
+                  * 3.2.3 古环境演化及沉积埋藏史
+                    <zotero://open-pdf/0_6GJLC7S9/45>
+          + 第四章 甲烷渗漏的孔隙水地球化学证据
+            <zotero://open-pdf/0_6GJLC7S9/52>
+              # 4.1 硫酸盐还原过程 <zotero://open-pdf/0_6GJLC7S9/52>
+              # 4.2 甲烷渗漏强度与水合物赋存的关系
+                <zotero://open-pdf/0_6GJLC7S9/55>
+              # 4.3 自生碳酸盐矿物沉淀 <zotero://open-pdf/0_6GJLC7S9/60>
+          + 第五章 沉积物自生碳酸盐矿物 <zotero://open-pdf/0_6GJLC7S9/63>
+              # 5.1 沉积物碳酸盐及有孔虫碳氧同位素特征
+                <zotero://open-pdf/0_6GJLC7S9/63>
+              # 5.2 碳同位素模型的建立 <zotero://open-pdf/0_6GJLC7S9/65>
+              # 5.3 研究区甲烷渗漏活动的强度和期次
+                <zotero://open-pdf/0_6GJLC7S9/71>
+              # 5.4 SMTZ内的有机碳同位素特征
+                <zotero://open-pdf/0_6GJLC7S9/77>
+          + 第六章 甲烷渗漏活动对自生黄铁矿特征的约束
+            <zotero://open-pdf/0_6GJLC7S9/81>
+              # 6.1 自生黄铁矿地球化学特征 <zotero://open-pdf/0_6GJLC7S9/81>
+              # 6.2 自生黄铁矿形貌特征 <zotero://open-pdf/0_6GJLC7S9/83>
+              # 6.3 自生黄铁矿特征及其控制因素
+                <zotero://open-pdf/0_6GJLC7S9/87>
+                  * 6.3.1 SD-AOM导致局部黄铁矿富集~(34)S
+                    <zotero://open-pdf/0_6GJLC7S9/87>
+                  * 6.3.2 SMTZ内黄铁矿形貌 <zotero://open-pdf/0_6GJLC7S9/90>
+                  * 6.3.3 沉积过程对黄铁矿特征的影响
+                    <zotero://open-pdf/0_6GJLC7S9/92>
+              # 6.4 黄铁矿中微量元素含量 <zotero://open-pdf/0_6GJLC7S9/93>
+              # 6.5 黄铁矿中微量元素的指示意义
+                <zotero://open-pdf/0_6GJLC7S9/95>
+          + 第七章 主要研究成果及存在问题 <zotero://open-pdf/0_6GJLC7S9/100>
+              # 7.1 主要研究成果 <zotero://open-pdf/0_6GJLC7S9/100>
+              # 7.2 创新性进展 <zotero://open-pdf/0_6GJLC7S9/103>
+              # 7.3 研究存在的问题 <zotero://open-pdf/0_6GJLC7S9/104>
+          + 附表 <zotero://open-pdf/0_6GJLC7S9/105>
+              # 附表一: A27站位沉积物粒度特征
+                <zotero://open-pdf/0_6GJLC7S9/105>
+              # 附表二: SH1站位沉积物粒度特征
+                <zotero://open-pdf/0_6GJLC7S9/106>
+              # 附表三: A27站位沉积物元素组成
+                <zotero://open-pdf/0_6GJLC7S9/107>
+              # 附表四: SH1站位沉积物元素组成
+                <zotero://open-pdf/0_6GJLC7S9/108>
+              # 附表五: 顶空气和溶解CH_4浓度及其碳同位素值
+                <zotero://open-pdf/0_6GJLC7S9/109>
+              # 附表六: A27站位孔隙水离子浓度
+                <zotero://open-pdf/0_6GJLC7S9/110>
+              # 附表七: SH1站位孔隙水离子浓度
+                <zotero://open-pdf/0_6GJLC7S9/111>
+              # 附表八: 研究站位沉积物碳含量
+                <zotero://open-pdf/0_6GJLC7S9/112>
+              # 附表九: 研究站位沉积物碳同位素组成
+                <zotero://open-pdf/0_6GJLC7S9/113>
+              # 附表十: 研究站位沉积物中黄铁矿含量及其硫同位素组成
+                <zotero://open-pdf/0_6GJLC7S9/114>
+              # 附表十一: 草莓状黄铁矿莓球粒径分布
+                <zotero://open-pdf/0_6GJLC7S9/115>
+              # 附表十二: A27站位沉积物活性微量元素含量
+                <zotero://open-pdf/0_6GJLC7S9/116>
+              # 附表十三: SH1站位沉积物活性微量元素含量
+                <zotero://open-pdf/0_6GJLC7S9/117>
+              # 附表十四: A27站位沉积物黄铁矿微量元素含量
+                <zotero://open-pdf/0_6GJLC7S9/118>
+              # 附表十五: SH1站位沉积物黄铁矿微量元素含量
+                <zotero://open-pdf/0_6GJLC7S9/119>
+          + 参考文献 <zotero://open-pdf/0_6GJLC7S9/120>
+  *
+
+
+        南海东沙海域甲烷渗漏活动对不同Fe组分和P形态组成的影响
+
+    条目类型 	期刊文章
+    作者 	胡钰
+    作者 	刘春阳
+    作者 	陈庆王
+    作者 	陈琳莹
+    作者 	冯东
+    摘要 	大陆边缘海底广泛发育甲烷渗漏活动,可以显著改变区域甚至全球海洋
+    C、S循环,潜在影响深部生物圈的Fe、P等循环过程。然而目前对甲烷渗漏活动
+    影响Fe-P耦合特征以及P循环的程度了解有限。本研究选取南海东沙海域发育
+    甲烷渗漏活动的冷泉站位和临近不发育甲烷渗漏活动的背景站位,分析采集的
+    柱状沉积物中不同Fe组分和P形态组成。2个站位对比结果显示,甲烷渗漏活动
+    促使易还原的铁氧化物和磁铁矿含量减少,导致可还原的铁氧化物增多,同时引
+    起铁氧化物吸附的P和自生P含量明显增加。因此,甲烷渗漏活动会显著地影响
+    沉积物中铁氧化物的形成,进一步影响铁氧化物吸附磷酸盐的丰度,有利于磷灰
+    石等自生磷酸盐沉积。这种不同形态Fe和P对甲烷渗漏活动的响应模式在大陆
+    边缘环境可能普遍存在,影响该环境中Fe、P循环和最终的P埋藏。
+    日期 	2023
+    语言 	zh-CN
+    文库编目 	CNKI
+    网址
+    https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=DQHX202304005
+
+    访问时间 	2024/10/8 下午12:26:06
+    其他 	original-container-title: Geochimica foundation: 国家自然科学
+    基金项目(41730528、91858208、41606048)； 南方海洋科学与工程广东省实
+    验室(广州)人才团队引进重大专项(GML2019ZD0506)； 上海市浦江人才计划项
+    目(21PJ1404700)联合资助； download: 178 album: 基础科学;工程科技Ⅰ辑;
+    工程科技Ⅱ辑 CLC: P744.4 dbcode: CJFQ dbname: CJFDTEMP filename:
+    DQHX202304005 publicationTag: 北大核心, CA, JST, CSCD, WJCI CIF: 1.0
+    AIF: 0.734
+    卷次 	52
+    页码 	439-447
+    期刊 	地球化学
+    DOI 	10.19700/j.0379-1726.2022.05.012
+    <http://doi.org/10.19700/j.0379-1726.2022.05.012>
+    期号 	4
+    ISSN 	0379-1726
+    添加日期 	2024/10/8 下午12:26:06
+    修改日期 	2024/10/8 下午12:26:06
+
+
+          标签：
+
+      o 甲烷厌氧氧化
+      o 甲烷渗漏
+      o 南海
+      o 自生沉积
+      o Fe组分
+      o P形态
+
+
+          附件
+
+      o 2023_胡钰 et al_南海东沙海域甲烷渗漏活动对不同Fe组分和P形态组成
+        的影响_.pdf
+  *
+
+
+        Methane and microbial dynamics in the Gulf of Mexico water column
+
+    条目类型 	期刊文章
+    作者 	Chrisoulla Rakowski
+    作者 	Cedric Magen
+    作者 	Samantha Bosman
+    作者 	Lauren Gillies
+    作者 	Kelsey Rogers
+    作者 	Jeff Chanton
+    作者 	Olivia U. Mason
+    摘要 	<p>In contrast to other oligotrophic water bodies the Gulf of
+    Mexico (GOM) hosts an abundance of hydrocarbon seeps, which likely
+    influences the microbial assemblages it hosts particularly regarding
+    the availability of labile carbon in the aphotic GOM. The aphotic
+    zone receives direct injection of seep methane (CH<sub>4</sub>), but
+    CH<sub>4</sub> from an unknown source has been reported at
+    supersaturated concentrations relative to the atmosphere in the GOM
+    photic zone. Here we used iTag sequencing of 16S rRNA genes to
+    characterize GOM microbial communities and to relate changes in
+    microbial community structure to the properties inherent to their
+    oceanic province-seafloor to the photic zone, seep and non-seep.
+    Along this trajectory water column communities were distinct in the
+    euphotic zone compared to the mesopelagic and deep-sea. In the
+    euphotic zone the relative abundance of a cyanobacterial species
+    (<italic>Prochlorococcus</italic>) was significantly correlated with
+    both CH<sub>4</sub> and chlorophyll a concentrations and was
+    abundant in some deep-chlorophyll maximum (DCM) samples. The
+    relative abundance of microorganisms related to known hydrocarbon
+    degraders were also significantly correlated with CH<sub>4</sub> in
+    the euphotic zone, but no canonical methanotrophs were observed. In
+    the mesopelagic to the seafloor canonical methanotrophs were
+    identified, but only a Marine Group II Euryarchaeota was
+    significantly correlated with CH<sub>4</sub>. Overall, depth and the
+    associated environmental conditions were the primary drivers in
+    structuring microbial communities over the GOM water column.
+    Further, CH<sub>4</sub> concentrations and relative microbial
+    abundances covaried significantly from the seafloor to the photic
+    zone in the GOM. The lack of a significant relationship between
+    canonical methanotrophs and CH<sub>4</sub> in the aphotic zone, even
+    when sampling at seep sites, may suggest methane-oxidation by
+    unknown microorganisms. Similarly their absence in the
+    CH<sub>4</sub> maximum and DCM suggested that CH<sub>4</sub> is
+    either oxidized by unrecognized methanotrophs or escapes the
+    CH<sub>4</sub> biofilter and fluxes to the atmosphere.</p>
+    日期 	2015-09-16
+    语言 	English
+    文库编目 	Frontiers
+    网址
+    https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2015.00069/full
+
+    访问时间 	2024/10/15 下午12:59:50
+    其他 	Publisher: Frontiers
+    卷次 	2
+    期刊 	Frontiers in Marine Science
+    DOI 	10.3389/fmars.2015.00069 <http://doi.org/10.3389/fmars.2015.00069>
+    刊名简称 	Front. Mar. Sci.
+    ISSN 	2296-7745
+    添加日期 	2024/10/15 下午12:59:50
+    修改日期 	2024/10/15 下午12:59:50
+
+
+          标签：
+
+      o Gulf of Mexico
+      o ITag
+      o methane photic zone
+      o methane seep
+      o methanotroph
+      o microbial community structure
+
+
+          附件
+
+      o 2015_Rakowski et al_Methane and microbial dynamics in the Gulf
+        of Mexico water column_.pdf
+
+        *Contents*
+
+          + Introduction <zotero://open-pdf/0_U9NYBN3B/2>
+          + Materials and Methods <zotero://open-pdf/0_U9NYBN3B/2>
+              # Sample Collection <zotero://open-pdf/0_U9NYBN3B/2>
+              # Oxygen, Chlorophyll a and nutrients
+                <zotero://open-pdf/0_U9NYBN3B/2>
+              # Methane <zotero://open-pdf/0_U9NYBN3B/3>
+              # Microbial Sample Collection and DNA Extractions
+                <zotero://open-pdf/0_U9NYBN3B/3>
+              # 16S rRNA Gene Sequencing and Analysis
+                <zotero://open-pdf/0_U9NYBN3B/3>
+              # Statistics <zotero://open-pdf/0_U9NYBN3B/3>
+          + Results and Discussion <zotero://open-pdf/0_U9NYBN3B/4>
+              # Water Column Properties and Chemistry
+                <zotero://open-pdf/0_U9NYBN3B/4>
+              # Surface to Seafloor Microbial Community Structure
+                <zotero://open-pdf/0_U9NYBN3B/5>
+              # Beta Diversity <zotero://open-pdf/0_U9NYBN3B/5>
+              # Euphotic Zone Bacterioplankton Structure and Diversity
+                <zotero://open-pdf/0_U9NYBN3B/6>
+              # Mesopelagic to Deep-sea Bacterioplankton Structure and
+                Diversity <zotero://open-pdf/0_U9NYBN3B/7>
+          + Conclusion <zotero://open-pdf/0_U9NYBN3B/8>
+          + Author Contributions <zotero://open-pdf/0_U9NYBN3B/8>
+          + Funding <zotero://open-pdf/0_U9NYBN3B/8>
+          + Acknowledgments <zotero://open-pdf/0_U9NYBN3B/8>
+          + Supplementary Material <zotero://open-pdf/0_U9NYBN3B/8>
+          + References <zotero://open-pdf/0_U9NYBN3B/8>
+
