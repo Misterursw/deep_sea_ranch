@@ -65,7 +65,7 @@
 
 - **数据处理**：`pandas`, `numpy`
 - **数据分析与统计**：`scipy`, `statsmodels`
-- **生态系统建模与预测**：`scikit-learn`, `pyGAM`
+- **生态系统建模与预测**：`scikit-learn`, `pyGAM`,`yolo`
 - **地理空间数据分析**：`GeoPandas`, `PyKrige`
 - **可视化**：`matplotlib`, `seaborn`
 - **待更新**：
