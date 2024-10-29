@@ -1,0 +1,20 @@
+﻿Girshick, R. (2015). Fast R-CNN. Proceedings of the IEEE International Conference on Computer Vision.
+	
+Girshick, R., et al. (2014). Rich feature hierarchies for accurate object detection and semantic segmentation. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.
+	
+He, K., et al. (2017). Mask R-CNN. Proceedings of the IEEE International Conference on Computer Vision.
+	
+Jia, C., et al. (2021). Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision. Proceedings of Machine Learning Research.
+	
+Kirillov, A., et al. (2023). Segment Anything. 2023 IEEE/CVF International Conference on Computer Vision (ICCV): 3992-4003.
+	
+Li, Y., et al. (2018). CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes. Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition.
+	
+Liu, W., et al. (2016). SSD: Single shot multibox detector. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics). 9905 LNCS: 21-37.
+	
+Radford, A., et al. (2021). Learning Transferable Visual Models From Natural Language Supervision. Proceedings of Machine Learning Research.
+	
+Ren, S., et al. (2015). Faster R-CNN: Towards real-time object detection with region proposal networks. Advances in Neural Information Processing Systems.
+	
+Terven, J., et al. (2023). "A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS." Machine Learning and Knowledge Extraction 5(4): 1680-1716.
+	
