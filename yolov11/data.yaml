@@ -1,0 +1,8 @@
+train: C:\Users\richard\学在交大\P.A.R.A\领域\深海牧场AI\ghl的github子项目\deep_sea_ranch\dataset\object_detection\aug_train\images
+val: C:\Users\richard\学在交大\P.A.R.A\领域\深海牧场AI\ghl的github子项目\deep_sea_ranch\dataset\object_detection\aug_val\images
+test: C:\Users\richard\学在交大\P.A.R.A\领域\深海牧场AI\ghl的github子项目\deep_sea_ranch\dataset\object_detection\aug_test\images
+
+nc: 1
+
+names:
+ 0: conch

@@ -1,0 +1,5 @@
+dataset/
+aug_results/
+yolov11/exp10-new
+yolov11/run
+yolov11/runs
